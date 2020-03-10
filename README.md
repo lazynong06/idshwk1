@@ -1,1 +1,1 @@
-# idshwk1
+# Repository for intrusion detection course.
